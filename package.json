@@ -1,0 +1,27 @@
+{
+  "name": "exif-orientation-examples-sr",
+  "version": "1.0.0",
+  "description": "JPEG images and generation scripts for testing exif orientation",
+  "main": "Makefile",
+  "scripts": {
+    "test": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrseanryan/exif-orientation-examples-sr.git"
+  },
+  "keywords": [
+    "exif",
+    "jpeg",
+    "test",
+    "test-images",
+    "exif-orientation",
+    "image-generation"
+  ],
+  "author": "Sean Ryan <mr.sean.ryan(at)gmail.com> (at)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrseanryan/exif-orientation-examples-sr/issues"
+  },
+  "homepage": "https://github.com/mrseanryan/exif-orientation-examples-sr#readme"
+}
