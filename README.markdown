@@ -3,6 +3,8 @@ EXIF Orientation-flag example images
 
 Example images using each of the EXIF orientation flags (1-to-8), in both landscape and portrait orientations.
 
+[FORKED by SR] - publishing to npm so can consume for dev-testing.
+
 [See here](http://www.daveperrett.com/articles/2012/07/28/exif-orientation-handling-is-a-ghetto/) for more information.
 
 
